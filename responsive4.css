@@ -1,0 +1,41 @@
+
+@media only screen and (device-width: 768px) {
+    
+    .sekil{
+        width: 133%;
+    }
+    .bas{
+        width: 133%;
+    }
+    .son{
+        width: 133%;
+    }
+    .bas1{
+        width: 400px;
+    }
+    .bas2{
+        width: 800px;
+    }
+    .soz{
+        width: 133%;
+        margin-top: 200px;
+    }
+    .metin div{
+        height: 440px;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .metin{
+        width: 133%;
+    }
+    .f{
+        display: none;
+    }
+    .son1{
+        width: 133%;
+    }
+    .bitdi{
+        width: 133%;
+    }
+ }
+

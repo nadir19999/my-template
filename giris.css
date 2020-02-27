@@ -1,0 +1,364 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.basmenu{
+    display: flex;
+}
+.basmenu li{
+    margin-left: 10px;
+    list-style-type: none;
+    color: #fff;
+    font-family: monospace;
+    font-size: 23px;
+    cursor: pointer;
+    padding-top: 23px;
+    text-align: center;
+    -webkit-transition: color 0.4s ease-out;
+}
+.basmenu li:hover{
+    color: red;
+    font-size: 25px;
+    text-shadow: 2px 2px #FF0000;
+    margin-top: -2px;
+}
+.bassehife{
+    background-color: #212529;
+    width: 1349px;
+    height: 70px;
+    position: fixed;
+    top: 0;
+    z-index: 3;
+
+}
+.fa{
+    margin-left: 100px;
+}
+.png{
+    padding-left: 71px;
+}
+.png1{
+    width: 88px;
+    height: 40px;
+    padding-left: 335px;
+}
+.png2{
+    width: 95.38px;
+    height: 40px;
+}
+.png3{
+    width: 88.45px;
+    height: 40px;
+}
+.png4{
+    width: 96.96px;
+    height: 40px;
+}
+.png5{
+    width: 75px;
+    height:40px;
+}
+.png6{
+    width: 105.89px;
+    height: 40px;
+}
+#slider{
+    margin: 0;
+    display: flex;
+    width: 1349px;
+    height: 880px;
+}
+#slider .items{
+    width: 1349px;
+    height: 880px;
+    margin: 50px;
+}
+#slider .items img{
+    width: 1349px;
+    height:880px;
+    margin-top: -50px;
+    margin-left: -50px;
+}
+.icmetin{
+    position: absolute;
+    z-index: 2;
+    margin-top: 270px;
+    margin-left: 100px;
+}
+.icmetin h4 {
+    color: #fff;
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 42px;
+    height: 46px;
+    text-transform: capitalize;
+    border: 2px solid #fc6060;
+    padding: 0 30px;
+    width: 122px;
+    height: 46px;
+    border-radius: 50px 50px 50px 50px;
+    text-align: center;
+    padding-top: 5px;
+    -webkit-transition: background-color 0.4s ease-out;
+    margin-top: 40px;
+}
+.icmetin h4:hover{
+    background-color: #fc6060;
+    box-shadow: 0 2px 40px 8px rgba(218, 9, 9, 0.5);
+}
+.icmetin h1{
+    color:#ff9696;
+    font-family: monospace;
+    font-weight: 700;
+    font-size: 82px;
+}
+.icmetin h2{
+    color:#ffe89e;
+    font-family: monospace;
+    font-weight: 700;
+    font-size: 82px;
+    margin-left: -1px;
+}
+.icmetin p{
+    color: #fff;
+    width: 552px;
+    height: 60px;
+    font-size: 20px;
+    font-family: monospace;
+    margin-left: 5px;
+}
+.slick-next:hover{
+    background-color: red;
+}
+.secim{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+.ikinci{
+    width: 100%;
+    height: 200px;
+    padding-top: 80px;
+}
+.secim li{
+    font-size: 25px;
+    font-family: monospace;
+    color: #212529;
+}
+.li1{
+    border-bottom: 3px solid #fc6060;
+    margin-top: 8px;
+    cursor: pointer;;
+}
+.li2,.li3,.li4,.li5{
+    margin-left: 30px;
+    cursor: pointer;
+}
+.grid{
+    width: 1349px;
+    height: 1084.94px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.div1 img{
+    padding-left: 30px;
+}
+.div2{
+    margin-top: -95px;
+}
+.div3{
+    padding-left: 30px;
+    margin-top: -160px;
+}
+.div2 img{
+    padding-left: 30px;
+}
+.grid1{
+    width: 247.3px;
+    height: 161.56px;
+    margin-left: 120px;
+    margin-bottom: 116px;
+    -webkit-transition: all 0.2s ease-out;
+}
+.grid2{
+    width: 247.3px;
+    height: 278.61px;
+    -webkit-transition: all 0.2s ease-out;
+}
+.grid3{
+    width: 247.3px;
+    height: 161.56px;
+    margin-bottom: 116px;
+    -webkit-transition: all 0.2s ease-out;
+}
+.grid4{
+    width: 247.3px;
+    height: 278.2px;
+    -webkit-transition: all 0.2s ease-out;
+}
+.grid5{
+    margin-left: 120px;
+    width: 247.3px;
+    height:278.61px;
+    margin-bottom: 182px;
+    -webkit-transition: all 0.2s ease-out;
+}
+.grid6{
+    width: 247.3px;
+    height: 413.8px;
+    margin-bottom: -70px;
+    -webkit-transition: all 0.2s ease-out;
+}
+.grid7{
+    width: 247.3px;
+    height: 278.61px;
+    margin-bottom: 183px;
+    -webkit-transition: all 0.2s ease-out;
+}
+.grid8{
+    width: 247.3px;
+    height: 161.56px;
+    margin-bottom: 183px;
+    -webkit-transition: all 0.2s ease-out;
+}
+.grid9{
+    width: 247.3px;
+    height: 417.09px;
+    margin-left: 120px;
+    -webkit-transition: all 0.2s ease-out;
+}
+.grid10{
+    width: 247.3px;
+    height: 161.56px;
+    margin-left: 30px;
+    -webkit-transition: all 0.2s ease-out;
+}
+.grid11{
+    width: 524.61px;
+    height: 423.77px;
+    margin-left: 30px;
+    -webkit-transition: all 0.2s ease-out;
+}
+.more {
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 42px;
+    height: 46px;
+    text-transform: capitalize;
+    border: 2px solid #fc6060;
+    padding: 0 30px;
+    width: 122px;
+    height: 46px;
+    border-radius: 50px 50px 50px 50px;
+    text-align: center;
+    padding-top: 5px;
+    -webkit-transition: background-color 0.4s ease-out;
+}
+.more:hover{
+    background-color: #fc6060;
+    box-shadow: 0 2px 40px 8px rgba(218, 9, 9, 0.5);
+}
+.more1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 120px;
+}
+.son1{
+    width: 100%;
+    height: 150px;
+    text-align: center;
+}
+.son1 h1{
+    margin-top: 25px;
+    font-family: monospace;
+    font-size: 42px;
+}
+.son1 h3{
+    margin-top: 15px;
+    font-family: monospace;
+    font-size: 25px;
+    color: #636363;
+}
+.son div img{
+    width: 300px;
+    height: 300px;
+}
+.son{
+    display: flex;
+}
+.bitdi{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 23px;
+    justify-content: center;
+    align-items: center;
+}
+.bitdi p{
+    color: #212529;
+    font-size: 20px;
+    font-family: monospace;
+
+}
+.bitdi h1{
+    color: #212529;
+    font-size: 20px;
+    font-family: monospace;
+    color: orangered;
+    margin-left: 12px;
+}
+.grid1:hover{
+    transform: rotate(-3deg);
+
+}
+.grid2:hover{
+    transform: rotate(-3deg);
+}
+.grid3:hover{
+    transform: rotate(-3deg);
+}
+.grid4:hover{
+    transform: rotate(-3deg);
+}
+.grid5:hover{
+    transform: rotate(-3deg);
+}
+.grid6:hover{
+    transform: rotate(-3deg);
+}
+.grid7:hover{
+    transform: rotate(-3deg);
+}
+.grid8:hover{
+    transform: rotate(-3deg);
+}
+.grid9:hover{
+    transform: rotate(-3deg);
+}
+.grid10:hover{
+    transform: rotate(-3deg);
+}
+.grid11:hover{
+    transform: rotate(-3deg);
+}
+#topbtn{
+    position: fixed;
+    bottom: 30px;
+    right: 40px;
+    font-size: 22px;
+    width: 50px;
+    height: 50px;
+    background: #e74c3c;
+    color: white;
+    border-radius: 100%;
+    cursor: pointer;
+    border: none;
+    -webkit-transition: background-color 0.2s ease-out;
+}
+#topbtn:hover{
+    background: #212529;
+}

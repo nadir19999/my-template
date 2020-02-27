@@ -1,0 +1,25 @@
+@media screen and (max-width: 375px) {
+    .sekil{
+        width: 425px;
+    }
+    .son1 h1{
+        margin-left: 55px;
+    }
+    .son1 h3{
+        margin-left: 60px;
+    }
+    .son div img{
+    width: 300px;
+    height: 300px;
+}
+.son{
+    width: 425px;
+}
+.bitdi p {
+    margin-left: 40px;
+}
+.sekilh2{
+    width: 307px;
+    font-size: 40px;
+}
+  }

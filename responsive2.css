@@ -1,0 +1,19 @@
+
+@media screen and (max-width: 320px) {
+    .son1 h1 {
+        margin-left: 110px;
+    }
+    .son1 h3 {
+        margin-left: 85px;
+    }
+    .bitdi{
+        width: 325px;
+        padding-left: 10px;
+    }
+    .bitdi p{
+        width: 320px;
+    }
+    .bitdi h1{
+        margin-left: 80px;
+    }
+  }

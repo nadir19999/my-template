@@ -1,0 +1,123 @@
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        width: 1366px;
+        height: 657px
+}
+.giris{
+    margin: 0;
+    padding: 0;
+    width:1322px;
+    height: 600px;
+}
+.girissekil1{
+    background-image: url("giris.jpg");
+    width: 100%;
+    display: inline-block;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    list-style-type: none;
+}
+.girissekil2{
+    width: 100%;
+    display: inline-block;
+    height: 100%;
+    background-image: url("giris1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    list-style-type: none;
+}
+.girissekil3{
+    width: 100%;
+    display:inline-block;
+    height: 100%;
+    background-image: url("giris2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    list-style-type: none;
+}
+.girissekil4{
+    width: 100%;
+    display: block;
+    height: 100%;
+    background-image: url("giris3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    list-style-type: none;
+}
+.girissekil5{
+    width: 100%;
+    display: block;
+    height: 100%;
+    background-image: url("giris4.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    list-style-type: none;
+}
+h1{
+    position: absolute;
+    z-index: 2;   
+    font-family: fantasy;
+    color: #fff;
+    font-weight: 500;
+    font-size: 55px;
+    width: 1000px;
+    height: 200px;
+    margin-left: 176px;
+}
+.r{
+    position: absolute;    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.e {
+    width: 200px;
+    height: 70px;
+    z-index: 2;
+    font-family: fantasy;
+    font-weight: 500;
+    font-size: 40px;
+    margin-top: 144px;
+    color: #10161a;
+    background-color: #ffffff;
+    padding: 10px 35px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    cursor: pointer;
+    text-decoration: none;
+    padding-left: 56px;
+}
+.d {
+    margin-left: 20px;
+    width: 200px;
+    height: 70px;
+    z-index: 2;
+    font-family: fantasy;
+    background-color: #fff344;
+    font-weight: 500;
+    font-size: 40px;
+    margin-top: 144px;
+    padding: 10px 35px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.e:hover{
+   background-color: green;
+   transition: 0.5s;
+   box-shadow: 5px 10px 8px #fff;
+}
+.d:hover{
+    background-color: green;
+    transition: 0.5s;
+    box-shadow: 5px 10px 8px #fff;
+ }
+ 

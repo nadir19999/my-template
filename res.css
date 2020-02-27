@@ -1,0 +1,377 @@
+@media screen and (max-width: 1326px){
+    #slider{
+        width:100% ;
+    }
+    .soz h1{
+        text-align: center;
+    }
+}
+@media screen and (max-width: 1325px){
+.allery{
+    display: none;
+}
+.all1{
+    display: none;
+}
+}
+@media screen and (max-width: 1282px){
+    .bas1{
+        width: 520px ;
+    }
+    .soz2{
+        height: 1000px;
+    }
+    .soz2 h1{
+text-align: center;
+    }
+    .allery{
+        display: none;
+    }
+    .soz3{
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+    .soz3 div{
+        width: 440px;
+        margin-bottom: 55px;
+    }
+    .soz3 div i{
+        margin-left: 18%;
+    }
+    .soz3 div img{
+        margin-left: 0px;
+    }
+    .soz3 div h6{
+        margin-left: 195px;
+    }
+    .haz4{
+        margin-left: 195px;
+    }
+    .soz3 div h3{
+        margin-left: 46%;
+        margin-bottom: 30px;
+        font-family: cursive;
+        text-align: center;
+        color: red;
+        margin-top: -150px;
+    
+    }
+
+}
+@media screen and (max-width: 1100px){
+    .bas1{
+        width: 440px ;
+    }
+    .soz2{
+        height: 980px;
+    }
+    .metin{
+        display: block;
+    }
+    .metin p{
+        width: 900px;
+    }
+    .img{
+        margin-top:35px ;
+    }
+    .metin .img {
+        width: 100%;
+        height: 388px;
+    }    
+
+}
+@media screen and (max-width: 1030px){
+    .metin p{
+    width:700px;
+    }
+}
+@media screen and (max-width: 1027px){
+    .bas1{
+        width: 340px ;
+    }
+    .soz1{
+        flex-wrap: wrap;
+        height: 750px;
+    }
+    .soz{
+        margin-top: 90px;
+        height: 950px;
+    }
+
+}
+@media screen and (max-width: 1014px){
+    .haz1{
+        margin-top: 20px;
+    margin-left: 24px;
+    }
+
+}
+@media screen and (max-width: 925px){
+    .bas1{
+        width: 250px ;
+    }
+    #slider{
+        height: 100%;
+    }
+    .slick-next{
+        display: none;
+    }
+    .soz3{
+        display: grid;
+        grid-template-columns: auto;
+    }
+    .soz2{
+        height: 1821px;
+    }
+}
+@media screen and (max-width: 822px){
+.metin p{
+    width: 500px;
+}
+.metin .img{
+    margin-top: 80px;
+}
+}
+@media screen and (max-width: 900px){
+    .bas1{
+        padding-left: 20px;
+        width: 185px;
+    }
+    .img1 img{
+        background-position-x: -95px;
+    }
+    .img2 img{
+        background-position-x: -270px;
+    }
+}
+@media screen and (max-width: 770px){
+    .bas2{
+        display: none;
+    }
+    .slick-next{
+        display: none;
+    }
+    
+}
+@media screen and (max-width: 689px){
+.soz1{
+    
+    height: 1139px;
+}
+.haz2{
+    margin-top: 25px;
+}
+.soz{
+    height: 1350px;
+}
+.soz2{
+    height: 1821px;
+}
+.haz4 h3{
+    margin-left: 195px;
+}
+}
+@media screen and (max-width: 666px){
+    .drop{
+        background-color: #fff;
+    display:block;
+    position: absolute;
+    right: 15px;
+    bottom: 12px;
+    transition: all 0.5s ease-out;
+    }
+    .drop2 input{
+        width: 119px;
+        height: 30px;
+        border-radius: 20px 20px;
+        border-style: none;
+    }
+    .drop2 i{
+        position: absolute;
+    }
+    .drop2{
+        position: absolute;
+        right: 0px;
+        top: 89px;
+        width: 210px;
+        height: 434px;
+        background-color: royalblue;
+        padding-left: 20px;
+    } 
+       .drop2 li{
+        list-style-type: none;
+    color: #fff;
+    font-size: 30px;
+    font-family: monospace;
+    height: 65px;
+    width: 188px;
+    display: block
+    }
+
+    .metin1{
+        display: none;
+    }
+    .metin .img{
+        display: none;
+    }
+    .img1 img{
+        background-image: none;
+        background-color: yellow;
+    }
+    .img2 img{
+        background-color: orangered;
+        background-image: none;
+    }
+    .icmetin h1{
+        display: none;
+    }
+    .icmetin h2{
+        display: none;
+    }
+    .icmetin p{
+        display: none;
+    }   
+    .icmetin h4{
+     display: none;
+    }
+}
+@media screen and (max-width: 640px){
+.icmetin h2{
+    text-align: center;
+    width: 100%;
+}
+}
+@media screen and (max-width: 566px){
+    .icmetin h4{
+        display: none;
+    }
+}
+@media screen and (max-width: 566px){
+    .icmetin h1{
+        width: 79%;
+    text-align: center;
+    }
+    .icmetin h2{
+        text-align: center;
+        width: 79%;
+    }
+    .icmetin p{
+        width: 75%;
+    text-align: center;
+    }   
+}
+@media screen and (max-width: 854px){
+    .bitdi{
+        display: block;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 460px){
+    .soz3{
+        display: grid;
+    }
+    .soz3 div {
+        width: 300px;
+        height: 350px;
+        border: 2px solid #fff;
+        border-radius: 15%;
+        margin-left: 30px;
+        box-shadow: 0 2px 40px 8px rgba(218, 9, 9, 0.5);
+        transition: background-color 0.4s ease-out;
+    }
+    .soz3 div img {
+        border-radius: 100%;
+        margin-left: 45px;
+        margin-top: 80px;
+    }    
+    .soz3 div h3 {
+        font-family: cursive;
+        text-align: center;
+        color: red;
+        margin-top: -10px;
+    }
+    .soz3 div h6 {
+        color: red;
+        font-family: cursive;
+        text-align: center;
+    }
+    
+    
+    .soz3 div i{
+    padding-left: 17px;
+    width: 95px;
+    padding-top: 17px;
+    height: 95px;
+    font-size: 60px;
+    background: #fc6060;
+    border-radius: 100%;
+    color: #fff;
+    position: absolute;
+    margin-top: -47px;
+    margin-left: 102px;
+    box-shadow: 0 2px 40px 8px rgba(218, 9, 9, 0.5);
+}
+}
+@media screen and (max-width: 460px){
+    .soz3 div h6{
+        margin-top: -25px;
+    margin-left: 0px;
+
+    }
+    .soz3 div h3{
+    margin-left: 7px;
+    }
+}
+@media screen and (max-width: 440px){
+    .soz3 div h6{
+        margin-top: -25px;
+    margin-left: 0px;
+
+    }
+    .soz3 div h3{
+    margin-left: 7px;
+    }
+    .icmetin {
+        height: 100%;
+        width: 60%;
+    }
+    .icmetin h1{
+        font-size: 60px;
+    }
+    .icmetin h2{
+        font-size: 41px;
+    }
+    .icmetin p{
+        margin-left: -25px;
+        width: 100%;
+        text-align:center;
+        height: 100%;
+    }
+}
+@media screen and (max-width: 360px){
+    .soz1 div{
+        width: 270px;
+    height: 306px;
+    }
+    .soz1 div i{
+        margin-left: 82px;
+    }
+    .soz1 div p{
+        font-size: 15px;
+        width: 230px;
+        text-align: unset;   
+    }
+}
+@media screen and (max-width: 320px){
+.icmetin h1{
+ margin-left: -14px;
+}
+.icmetin h2{
+margin-left: -12px;
+}
+.icmetin p{
+    margin-left: -35px;
+}
+
+}
